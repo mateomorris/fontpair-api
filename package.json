@@ -1,0 +1,35 @@
+{
+  "name": "fontpair-api",
+  "version": "1.0.0",
+  "description": "An unofficial API built on top of FontPair",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateomorris/fontpair-api.git"
+  },
+  "keywords": [
+    "google",
+    "fonts",
+    "font",
+    "pair",
+    "google",
+    "font",
+    "pairings",
+    "fonts"
+  ],
+  "author": "Mateo Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateomorris/fontpair-api/issues"
+  },
+  "homepage": "https://github.com/mateomorris/fontpair-api#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
