@@ -1,8 +1,6 @@
 # fontpair-api
-[FontPair Logo](https://fontpair.co/styleguide/assets/logo/wordmark/navy/fontpair-wordmark-logo-navy.svg)
-An unofficial API which offers built on top of FontPair which serves Google Fonts fonts which go well together.
+[FontPair Logo](https://fontpair.co/styleguide/assets/logo/wordmark/navy/wordmark_navy.png)
+An unofficial API which offers built on top of FontPair
 
 ## TODO:
-* Include Google Fonts data
-* Store results in DB
-* Host API on Heroku
+* Connect Google Fonts API
