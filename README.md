@@ -3,5 +3,7 @@
 
 An unofficial API which offers built on top of [FontPair](https://fontpair.co/)
 
+[https://font-pair.herokuapp.com/featured](https://font-pair.herokuapp.com/featured)
+
 ## TODO:
 * Connect Google Fonts API
